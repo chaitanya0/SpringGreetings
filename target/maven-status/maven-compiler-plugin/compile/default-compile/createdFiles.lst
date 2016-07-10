@@ -1,0 +1,6 @@
+com/bitbybit/domain/Greeting.class
+com/bitbybit/dao/GreetingDao.class
+com/bitbybit/web/controller/GreetingController.class
+com/bitbybit/domain/Color.class
+com/bitbybit/web/form/GreetingForm.class
+com/bitbybit/service/GreetingService.class
